@@ -23,4 +23,5 @@ Team : 황의수, 조창진, 김형경
 # Brainstorming 
 https://docs.google.com/document/d/1kCwUaxuW3Qqmh2TmOJsUu-HQ1eqOR29lh4YeSaIzDzM/edit#heading=h.mq7442yr5z47
 
-
+# Shared GoogleDrive
+https://drive.google.com/drive/folders/0AAE42G2lZEL9Uk9PVA
