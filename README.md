@@ -18,5 +18,9 @@ Team : 황의수, 조창진, 김형경
 2. 목적  
 	1) 기업 트랜드를 확인할 수 있는 비정형&정형 데이터 발굴  
 
-	2) 구직자가 필요로 하는 기업 트랜드 아이디어 및 인사이트 발굴  
+	2) 구직자가 필요로 하는 기업 트랜드 아이디어 및 인사이트 발굴 
+
+# Brainstorming 
+https://docs.google.com/document/d/1kCwUaxuW3Qqmh2TmOJsUu-HQ1eqOR29lh4YeSaIzDzM/edit#heading=h.mq7442yr5z47
+
 
